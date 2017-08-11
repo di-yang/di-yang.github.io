@@ -1,0 +1,32 @@
+#container{
+	width:960px;
+	margin:0 auto;
+	position:relative;
+	font-family:Segoe UI Semilight,Segoe UI Light,Segoe WP Light,Segoe UI,Segoe,Segoe WP,Helvetica Neue,Roboto,Helvetica,Arial,Tahoma,Verdana,sans-serif;
+	}
+
+
+header {
+		padding:1px;
+		text-align:center;
+		font-family:Verdana,Times, serif;
+		background:#ABD6FF;
+		}
+
+h1{
+	text-align:center;
+	}
+
+p, li{
+margin:24px;
+line-height:180%;
+	}
+
+
+
+footer {
+	clear:both;
+	padding:1px;
+	margin:0 auto;
+	text-align:center;
+}
