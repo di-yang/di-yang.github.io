@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Social Health Insurance Consolidation and Urban-Rural Inequality in Utilization and Financial Risk Protection in China</title>
+      <link>https://example.com/publication/social-health-insurance-consolidation-and-urban-rural-inequality-in-utilization-and-financial-risk-protection-in-china/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/social-health-insurance-consolidation-and-urban-rural-inequality-in-utilization-and-financial-risk-protection-in-china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Disability on Educational, Labor Market, and Marital Outcomes in a Low-Income Context</title>
+      <link>https://example.com/publication/the-effect-of-disability-on-educational-labor-market-and-marital-outcomes-in-a-low-income-context/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/the-effect-of-disability-on-educational-labor-market-and-marital-outcomes-in-a-low-income-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic and Social Drivers of Antibiotic Dispensing Practices among Community Pharmacies in Nepal</title>
+      <link>https://example.com/publication/economic-and-social-drivers-of-antibiotic-dispensing-practices-among-community-pharmacies-in-nepal/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/economic-and-social-drivers-of-antibiotic-dispensing-practices-among-community-pharmacies-in-nepal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic and Social Drivers of Antibiotic Dispensing Practices among Community Pharmacies in Nepal</title>
+      <link>https://example.com/publication/livestock-ownership-and-anaemia-in-sub-saharan-african-households/</link>
+      <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/livestock-ownership-and-anaemia-in-sub-saharan-african-households/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
